@@ -1,4 +1,4 @@
--- Superstore Sales Data
+-- Superstore Sales Analysis
 -- Skills used: Joins, CTE's, Aggregate Functions, Converting Data Types
 
 
