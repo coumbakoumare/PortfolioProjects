@@ -1,4 +1,6 @@
--- Select Data that I am going to be using 
+-- Covid19 Data Exploration - Skills used: Joins, Aggregate Functions, Creating Views
+
+Select Data that I am going to be starting with
 
 SELECT location, date, total_cases, new_cases, total_deaths, population
 FROM covid.coviddeaths
