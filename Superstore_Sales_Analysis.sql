@@ -1,6 +1,5 @@
--- Superstore Sales Analysis
+-- Superstore_Sales_Analysis
 -- Skills used: Joins, CTE's, Aggregate Functions, Converting Data Types
-
 
 -- Select data to have a clear view of the total order, sales, and profit per year 
 
